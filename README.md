@@ -5,11 +5,11 @@ The calculator allows users to perform basic arithmetic operations like addition
 
 # Features
 
-User-Friendly Interface: A clean and intuitive design that is easy to use.
+- User-Friendly Interface: A clean and intuitive design that is easy to use.
 
-Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
+- Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
 
-Responsive Design: The calculator is designed to be responsive and works well on various devices and screen sizes.
+- Responsive Design: The calculator is designed to be responsive and works well on various devices and screen sizes.
 
 # Technologies Used
 
